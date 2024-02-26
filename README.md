@@ -1,6 +1,20 @@
+<h><u><b>Hi, I'm Rocketman12435 and I am a programmer mostly interested in Python!!</b></u></h>
+<p>Languages:</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,js,html" />
+  </a>
+</p>
+<p>Frameworks:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </a>
+</p>
+<p>Editors I use:</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,atom" />
   </a>
 </p>
 

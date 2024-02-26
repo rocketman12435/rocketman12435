@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,python,,c,vscode" />
+  </a>
+</p>
 - 👋 Hi, I’m @rocketman12435
 - 👀 I’m interested in Python prgramming, C programming, Robotics with Arduinos, and vaguely web development
 - 🌱 I’m currently learning API development

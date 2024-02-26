@@ -6,13 +6,13 @@
   </a>
 </p>
 <p >Frameworks:</p>
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flask" />
   </a>
 </p>
 <p >Editors I use:</p>
-<p align="center">
+<p >
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,atom" />
   </a>

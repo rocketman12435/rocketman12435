@@ -1,4 +1,4 @@
-<h align="center"><u><b>Hi, I'm Rocketman12435 and I am a programmer mostly interested in Python!!</b></u></h>
+<h align="center"><u><b>Hi, I'm Rocketman12435 and I am mostly interested in Python!!</b></u></h>
 <p >Languages:</p>
 <p>
   <a href="https://skillicons.dev">
